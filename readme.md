@@ -1,5 +1,4 @@
-{
-    "A", "AA", "AAA", "AAAA", "AAAC", "AAAU", "AACB", "AACBR",
+ "A", "AA", "AAA", "AAAA", "AAAC", "AAAU", "AACB", "AACBR",
     "AACBU", "AACG", "AADR", "AAEQ", "AAGIY", "AAL", "AALG", "AAME",
     "AAMI", "AAOI", "AAON", "AAP", "AAPB", "AAPD", "AAPG", "AAPL",
     "AAPR", "AAPU", "AAPW", "AAPX", "AAPY", "AARD", "AAT", "AAUC",
@@ -1556,4 +1555,3 @@
     "ZSB", "ZSC", "ZSEP", "ZSL", "ZSPC", "ZSTK", "ZTAX", "ZTEK",
     "ZTEN", "ZTO", "ZTOP", "ZTR", "ZTRE", "ZTS", "ZTWO", "ZUMZ",
     "ZURA", "ZURVY", "ZVIA", "ZVOL", "ZVRA", "ZWS", "ZYBT", "ZYME"
-};
