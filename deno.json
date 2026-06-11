@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "fetch": "deno run --allow-net --allow-env --allow-read --allow-write fetch_alpaca_tickers.ts",
+    "check": "deno check fetch_alpaca_tickers.ts"
+  }
+}

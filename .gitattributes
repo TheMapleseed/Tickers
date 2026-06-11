@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.csv text eol=lf
+*.kdl text eol=lf
+*.md text eol=lf
+*.ts text eol=lf
+*.log text eol=lf
